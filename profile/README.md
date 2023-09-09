@@ -1,4 +1,4 @@
-# .github
+# LoveLoveShot
 커플 이미지 생성 사이트
 
 # 예비 링크
