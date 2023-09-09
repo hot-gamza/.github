@@ -10,6 +10,6 @@
 </div>
 
 # 예비 링크
-## 🌙 [Server BackEnd](https://github.com/hot-gamza/loveloveshot-spring-boot)
-## 🌕 [AI Flask](https://github.com/hot-gamza/flask-temp)
-## 🌓 [AI Test](https://github.com/hot-gamza/flask-temp)
+### 🌙 [Server BackEnd](https://github.com/hot-gamza/loveloveshot-spring-boot)
+### 🌕 [AI Flask](https://github.com/hot-gamza/flask-temp)
+### 🌓 [AI Test](https://github.com/hot-gamza/flask-temp)
