@@ -11,5 +11,6 @@
 
 # 예비 링크
 ### 🌙 [Server BackEnd](https://github.com/hot-gamza/loveloveshot-spring-boot)
+### ⭐️ [Server FrontEnd](https://github.com/hot-gamza/loveloveshot-react)
 ### 🌕 [AI Flask](https://github.com/hot-gamza/flask-temp)
 ### 🌓 [AI Test](https://github.com/hot-gamza/flask-temp)
